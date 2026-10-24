@@ -1,0 +1,6 @@
+# Host row of the logo color bundle. The visible capability is the Client half:
+# it recolors the brand-mark slots and the tab icon, and contributes the color
+# picker to this bundle's own page in the Web Plugin Center.
+- insert:
+    - id: logo-color
+      name: 'dsh-logo-color'
